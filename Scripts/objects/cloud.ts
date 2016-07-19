@@ -3,7 +3,7 @@ module objects {
      * This is the Cloud object used in the game
      * 
      * @export
-     * @class Cloud
+     * @class  Cloud
      * @extends {createjs.Bitmap}
      */
     export class Cloud extends createjs.Bitmap {
